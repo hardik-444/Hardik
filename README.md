@@ -1,2 +1,2 @@
-# Hardik
-This is my first repository.
+# <h1> Hardik </h1>
+<p>This is my first repository.
